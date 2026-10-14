@@ -1,0 +1,15 @@
+# Target compilation folders
+**/target/
+*.jar
+*.war
+
+# IntelliJ IDEA settings
+.idea/
+*.iml
+*.iws
+
+# Log files
+*.log
+
+# System files
+.DS_Store
